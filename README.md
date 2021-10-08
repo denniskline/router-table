@@ -60,3 +60,17 @@ Using Google Sketchup
  * Safety Power Tool Switch https://www.rockler.com/safety-power-tool-switch
  * 3 Inch Swivel/Locking Casters https://www.amazon.com/Enjucom-Swivel-Locking-1000Lbs-Stainless/dp/B07PPPYCK8
  * Tee Bolts (Rockler bolts were backordered) https://www.amazon.com/POWERTEC-16-Inch-18-2-Inch-QTB1003-T-Slot/dp/B07566DMWW
+
+### Project Images
+
+![Framing1](https://github.com/denniskline/router-table/blob/main/src/images/RouterTable-Framing1-Action.jpg?raw=true)
+
+![Framing2](https://github.com/denniskline/router-table/blob/main/src/images/RouterTable-Framing2-Action.jpg?raw=true)
+
+![Framing3](https://github.com/denniskline/router-table/blob/main/src/images/RouterTable-Framing3-Action.jpg?raw=true)
+
+![Drawers In](https://github.com/denniskline/router-table/blob/main/src/images/RouterTable-DrawersIn-Action.jpg?raw=true)
+
+![Casters On](https://github.com/denniskline/router-table/blob/main/src/images/RouterTable-CastersOn-Action.jpg?raw=true)
+
+
