@@ -2,7 +2,7 @@
 
 Open plans for a DIY router table with lots of storage
 
-![Finished Project](https://github.com/denniskline/router-table/blob/main/src/images/Router%20Table%20Finished.png?raw=true)
+![Finished Project](https://github.com/denniskline/router-table/blob/main/src/images/RouterTableFinished.jpg?raw=true)
 
 ### Design
 
