@@ -8,7 +8,7 @@ Open plans for a DIY router table with lots of storage
 
 Using Google Sketchup
 
-![Google Sketchup](https://github.com/denniskline/router-table/blob/main/src/sketchup/Mobile%20Router%20Table.skp?raw=true)
+[Google Sketchup](https://github.com/denniskline/router-table/blob/main/src/sketchup/Mobile%20Router%20Table.skp)
 
 #### Overall Design
 
@@ -54,7 +54,9 @@ Using Google Sketchup
 
 ### Shopping List
 
- * Rockler High Pressure Laminate Router Table Top https://www.rockler.com/rockler-high-pressure-laminate-router-table-top
- * Rockler Phenolic Router Plates https://www.rockler.com/rockler-phenolic-router-plates
+ * Router Table Top https://www.rockler.com/rockler-high-pressure-laminate-router-table-top
+ * Phenolic Router Plates https://www.rockler.com/rockler-phenolic-router-plates
+ * Router Table Fence https://www.rockler.com/rockler-pro-router-table-fence
  * Safety Power Tool Switch https://www.rockler.com/safety-power-tool-switch
-
+ * 3 Inch Swivel/Locking Casters https://www.amazon.com/Enjucom-Swivel-Locking-1000Lbs-Stainless/dp/B07PPPYCK8
+ * Tee Bolts (Rockler bolts were backordered) https://www.amazon.com/POWERTEC-16-Inch-18-2-Inch-QTB1003-T-Slot/dp/B07566DMWW
